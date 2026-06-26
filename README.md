@@ -121,3 +121,29 @@ A responsive business application designed for painting and contractor service w
 - Database-driven application design
 - Responsive and user-friendly interface development
 - Project planning, leadership, client communication, and problem-solving
+
+## Experience & Leadership
+
+### Build My Project Labs - Founder & Developer
+
+- Founded and developed a student-focused software project initiative
+- Built web applications, AI-powered solutions, and business management systems
+- Managed project planning, development, testing, and client communication
+- Focused on delivering practical and real-world software solutions
+
+### Codec Technologies - AI Intern
+
+- Worked on Artificial Intelligence and Machine Learning concepts
+- Assisted in AI model implementation and software integration
+- Gained practical experience in development workflows and problem-solving
+
+---
+
+## Achievements & Certifications
+
+- Winner - University-Level Hackathon for the Virtual Herbal Garden project
+- 1st Prize - University-Level Quiz Competition
+- Microsoft Power BI Certification in Data Analytics and Visualisation
+- Copyright Registration for original poem "Chanchal Man"
+
+---
