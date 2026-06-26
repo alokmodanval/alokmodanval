@@ -2,9 +2,8 @@
 
 # Hi, I'm Alok Modanval
 
-### Computer Science Engineer | Full-Stack Developer | AI & ML Enthusiast | Founder of Build My Project Labs
-
-I build web applications, AI-powered solutions, and business management systems that solve real-world problems.
+### Computer Science Engineer | Data Analytics | Generative AI | Full-Stack Developer | Founder of Build My Project Labs
+I build data-driven, AI-powered, and full-stack software solutions for real-world business problems.
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=Computer+Science+Engineer;Full-Stack+Developer;AI+%26+ML+Enthusiast;Founder+of+Build+My+Project+Labs;Building+Real-World+Software+Solutions" alt="Typing SVG" />
 
