@@ -174,6 +174,38 @@ A responsive business application designed for painting and contractor service w
 </div>
 
 ---
+## What I Do
+
+- Analyze data to find patterns, insights, and business opportunities
+- Build AI-powered tools, chatbots, and automation-based solutions
+- Work on Generative AI, prompt engineering, and AI-assisted workflows
+- Create dashboards and reports using data visualization concepts
+- Develop full-stack applications that combine data, AI, and business workflows
+- Use technology to solve real-world problems with practical and scalable solutions
+
+---
+
+## Career Focus
+
+- Data Analytics
+- Generative AI Analysis
+- AI-powered business solutions
+- Dashboard and reporting systems
+- Prompt engineering and AI workflow design
+- Full-stack development for data-driven applications
+
+---
+
+## Open To
+
+- Data Analyst roles
+- Generative AI Analyst roles
+- AI/ML internship opportunities
+- Full-stack developer roles with AI or data-focused projects
+- Entry-level software development opportunities
+- Collaboration on AI, analytics, automation, and business software projects
+
+---
 ## Languages
 
 - Hindi
