@@ -13,7 +13,7 @@ I build data-driven, AI-powered, and full-stack software solutions for real-worl
 
 ## About Me
 
-- Final Year Computer Science Engineering Student
+- Computer Science Engineering
 - Founder & Developer of Build My Project Labs
 - Passionate about Full-Stack Web Development, Artificial Intelligence, and Machine Learning
 - Experienced in building web applications, AI-powered solutions, and management systems
