@@ -30,3 +30,53 @@ I build web applications, AI-powered solutions, and business management systems 
 - Improving business management systems like billing, inventory, quotation, and client workflows
 - Learning more about AI, Machine Learning, Power BI, and scalable software development
 - Growing Build My Project Labs as a student-focused software project initiative
+
+---
+
+## Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0E75B6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-0F172A?style=for-the-badge&logo=stackshare&logoColor=white" />
+</p>
+
+### AI, ML and Data
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-059669?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### Database and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Database%20Management-334155?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project%20Management-0E7490?style=for-the-badge&logo=trello&logoColor=white" />
+</p>
+
+---
+
+## Core Strengths
+
+- Full-stack web application development
+- AI and Machine Learning based project development
+- Business management software development
+- Database-driven application design
+- Responsive and user-friendly interface development
+- Project planning, leadership, client communication, and problem-solving
