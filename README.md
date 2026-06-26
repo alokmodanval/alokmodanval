@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**alokmodanval/alokmodanval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Alok Modanval
 
-Here are some ideas to get you started:
+### Software Engineer | Generative AI Developer | QA Automation Engineer | Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+I build modern, scalable, and AI-powered applications while continuously learning new technologies and solving real-world problems.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineer;Generative+AI+Developer;QA+Automation+Engineer;Full+Stack+Developer;Always+Learning+%F0%9F%9A%80" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final Year Computer Science Engineering Student
+- 🤖 Passionate about Generative AI & AI Agents
+- 🧪 Experienced in QA Automation & Software Testing
+- 💻 Full Stack Developer using React & FastAPI
+- 🌱 Currently learning RAG, LangGraph & AI Agent Development
+- 🚀 Building projects that solve real-world problems
+
+---
