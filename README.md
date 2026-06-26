@@ -71,6 +71,47 @@ I build web applications, AI-powered solutions, and business management systems 
 </p>
 
 ---
+---
+
+## Featured Projects
+
+### NYAY AI - Law Advisor Chatbot
+
+AI-powered law advisor chatbot built to help users access legal information through a simple conversational interface.
+
+- Provides legal information in an easy-to-understand format
+- Designed for non-technical users
+- Uses NLP concepts for intent recognition and user-friendly interaction
+- Focused on accessibility, speed, and practical legal guidance
+
+### Billing & Inventory Management System
+
+A business management system designed for small businesses to manage billing, stock, inventory, and financial records.
+
+- Automated billing and invoice management
+- Real-time stock tracking and inventory visibility
+- Daily, weekly, monthly, and yearly business insights
+- Helps reduce manual record-keeping and improve operational accuracy
+
+### Build My Project Labs - Platform
+
+A student-focused software project initiative for building web applications, AI solutions, and management systems.
+
+- Founded and developed as a software project platform
+- Covers web development, AI-based systems, and business tools
+- Handles project planning, development, testing, and delivery
+- Focused on practical, real-world project development
+
+### AAROHI PAINTING WORKS Application
+
+A responsive business application designed for painting and contractor service workflows.
+
+- Quotation generation system
+- Job and client management workflow
+- Mobile-first responsive interface
+- Helps streamline contractor business operations
+
+---
 
 ## Core Strengths
 
